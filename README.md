@@ -7,5 +7,6 @@ Our analysis concludes that the data differs between the different city types.  
 
 ![alt text](https://github.com/abbys114/PyBer_Analysis/blob/main/Pyber%20table.png)
 ![alt text](https://github.com/abbys114/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results of our analysis, here are some recomendations for the company to improve there services to increase profits.  For Urban areas, Pyber should try using the ride share drivers to pick up and deliver food.  This would be appealing to people who do not want to drive to pick up there food, but are ordering from a restaurant that does not deliver.  For Suburban areas, Pyber should promote rides to and from airports in suburbs near airports, as they may be longer rides, which will increase fare size.  In Rural areas, Pyber should have a promotion for new users to get their first ride free to increase number of rides in these areas.  Allowing them to try it for free the first time will let them experience the convience of it and they will want to use it again.  Overall, these recomendations could help the company grow.
